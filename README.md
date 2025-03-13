@@ -24,7 +24,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i= py,fastapi,mongo,html,css,js,react,cs,git,vscode,postman,linux,&perline=12"  />
+<img width="600px"  src="https://skillicons.dev/icons?i= fastapi,mongo,html,css,js,react,git,vscode,postman,&perline=12"  />
 </p>
 
 
@@ -32,13 +32,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-
-
-<p align="center">
-<a href="https://github.com/najmussakib2/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&size_weight=0.2&count_weight=0.5&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
-</p>
 
 <hr>
 <br>
