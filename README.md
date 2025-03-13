@@ -37,6 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://images.icon-icons.com/3766/PNG/512/figma_icon_231327.png" height="40" alt="figma logo"  />
+  <img src="https://images.icon-icons.com/3766/PNG/512/figma_icon_231327.png" height="40" alt="figma logo"  />
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vscode.png" height="40" alt="vs code logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" height="40" alt="redux logo"  />
+  <img src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" height="40" alt="bootstrap logo"  />
 </p>
 
 
