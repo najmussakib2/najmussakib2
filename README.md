@@ -49,13 +49,13 @@ I build elegant digital experiences that combine clean architecture, exceptional
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="Nest.Js" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="Prisma" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
-  <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" alt="Figma" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 </p>
