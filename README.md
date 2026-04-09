@@ -1,75 +1,92 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page">
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<!-- Stunning Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=0A66C2,7C3AED&height=280&section=header&text=Najmus%20Sakib&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=A%20Full-Stack%20Developer%20•%20Bangladesh&descAlign=center&descSize=22&theme=dark" alt="Najmus Sakib - Header">
+</p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Najmus+Sakib;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+<h1 align="center">Hi, I'm Najmus Sakib <img src="https://media.giphy.com/media/hvRJklJ1R1Z9O/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/najmussakib2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</h1>
-   
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="center">
-  Hi, I'm Najmus sakib, web developer from BANGLADESH
-  <br>
-  <br>
-  💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
-  <br>
-  📫 How to reach me 👇
+  <a href="https://github.com/najmussakib2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/najmussakib2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
+
+<p align="center">
+  <strong>A Full-Stack Web Developer</strong> from <strong>Dhaka, Bangladesh</strong><br>
+  Passionate about crafting scalable, high-performance applications and exploring the frontiers of Deep Learning & modern web architecture.
+</p>
 
 <hr>
 
+### ✨ About Me
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+I build elegant digital experiences that combine clean architecture, exceptional UX, and cutting-edge technologies. With a strong foundation in the JavaScript ecosystem, I love turning complex problems into simple, beautiful solutions.
+
+- 🚀 Specializing in **Next.js**, **TypeScript**, and full-stack TypeScript ecosystems
+- 🧠 Deeply interested in **Deep Learning**, system design, and performance optimization
+- 🌍 Based in Bangladesh — actively open to remote opportunities and meaningful collaborations
+- 💡 Currently focused on building production-grade applications with modern tools
+
+**Open to exciting projects and conversations around web tech and AI.**
+
+---
+
+### 🛠️ Technologies & Tools
+
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img src="https://images.icon-icons.com/3766/PNG/512/figma_icon_231327.png" height="40" alt="figma logo"  />
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vscode.png" height="40" alt="vs code logo"  />
-  <img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" height="40" alt="redux logo"  />
-  <img src="https://ncarb.github.io/bootstrap/assets/img/bootstrap-stack.png" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" alt="Next.js" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" alt="Figma" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 </p>
 
+---
 
+### ⚡ GitHub Activity
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
-<hr>
-<br>
-
-<hr>
 <p align="center">
-  <a href="https://www.buymeacoffee.com" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Najmus Sakib buy me a coffee" width="230"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=najmussakib2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najmussakib2&theme=tokyonight&hide_border=true" height="195" alt="Streak">
 </p>
 
-<!--
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
-</p>
--->
 <p align="center">
-  <a href="https://www.github.com/najmussakib2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmussakib2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
-<!---
-HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--Footer--> 
+
+---
+
+### 📬 Let's Connect
+
+I'm always interested in new opportunities, collaborations, or discussions about modern web development and AI.
+
+- **LinkedIn** → [Najmus Sakib](https://www.linkedin.com/in/najmussakib2/)
+- **GitHub** → [@najmussakib2](https://github.com/najmussakib2)
+
+Feel free to reach out!
+
+---
+
+<!-- Elegant Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0A66C2,7C3AED&height=120&section=footer&fontColor=ffffff" alt="Footer">
 </p>
